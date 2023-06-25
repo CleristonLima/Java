@@ -12,7 +12,7 @@ class ExerciciosPropostos {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		/*int x, y;
+		int x, y;
 		int soma;
 		
 		x = sc.nextInt();
@@ -22,7 +22,7 @@ class ExerciciosPropostos {
 		
 		System.out.println("SOMA = " + soma);
 		
-		sc.close();*/
+		sc.close();
 		
 		System.out.println("---------------------------------------------------------------------------------");
 		
@@ -34,22 +34,22 @@ class ExerciciosPropostos {
 		 * Considere o valor de pi = 3.14
 		 */
 		
-		/*double valorRaio;
-        double pi = 3.14159;
-        double A;
-        double totalRaio;
-        double area;
+		double valorRaio;
+       		double pi = 3.14159;
+        	double A;
+        	double totalRaio;
+        	double area;
         
-        System.out.print("Digite o valor do raio: ");
-        valorRaio = sc.nextDouble();
+        	System.out.print("Digite o valor do raio: ");
+        	valorRaio = sc.nextDouble();
         
-        A = Math.pow(valorRaio, 2.0);
+        	A = Math.pow(valorRaio, 2.0);
         
-        totalRaio = A;
+        	totalRaio = A;
         
-        area = totalRaio * pi;
+        	area = totalRaio * pi;
         
-        System.out.printf("A Area do circulo é = %.4f%n ", area);*/
+        	System.out.printf("A Area do circulo é = %.4f%n ", area);
 		
 		System.out.println("---------------------------------------------------------------------------------");
 		
@@ -59,7 +59,7 @@ class ExerciciosPropostos {
 		 * 
 		 */
 		
-		/*int A, B, C, D;
+		int A, B, C, D;
 		int diferenca;
 		
 		System.out.print("Digite o valor de A: ");
@@ -86,7 +86,7 @@ class ExerciciosPropostos {
 		
 		System.out.println("---------------------------------------------------------------------------------");
 		
-		/*int number_func;
+		int number_func;
 		double valor, hora_trab, salary;
 		
 		System.out.print("Digite o numero do funcionario: ");
@@ -102,7 +102,7 @@ class ExerciciosPropostos {
 		
 		System.out.println("NUMBER = " + number_func);
 		
-		System.out.printf("SALARY = %.2f%n ", salary);*/
+		System.out.printf("SALARY = %.2f%n ", salary);
 		
 		System.out.println("---------------------------------------------------------------------------------");
 		
@@ -111,7 +111,7 @@ class ExerciciosPropostos {
 				 código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
 		 */
 		
-		/*int codigo_pc1, codigo_pc2;
+		int codigo_pc1, codigo_pc2;
 		double qty1, preco1, total1, qty2, preco2, total2, total_pagar;
 		
 		System.out.print("Digite o código da peca 1: ");
@@ -138,7 +138,7 @@ class ExerciciosPropostos {
 		
 		total_pagar = total1 + total2;
 		
-		System.out.printf("VALOR A PAGAR: R$ %.2f%n ", total_pagar);*/
+		System.out.printf("VALOR A PAGAR: R$ %.2f%n ", total_pagar);
 		
 		System.out.println("---------------------------------------------------------------------------------");
 		
