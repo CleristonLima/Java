@@ -10,7 +10,7 @@ public class exercicio_estrutura_condicional {
 		// 1 -> Fazer um programa para ler um numero inteiro, e depois dizer se este numero é negativo ou não
 		Scanner sc = new Scanner(System.in);
 		
-		/*int numero;
+		int numero;
 		
 		System.out.println("Por favor digite um numero: ");
 		numero = sc.nextInt();
@@ -23,13 +23,13 @@ public class exercicio_estrutura_condicional {
 			
 			System.out.println("NAO NEGATIVO");
 		}
-		sc.close(); */
+		sc.close(); 
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
 		// 2 - Fazer um programa para ler um numero inteiro e dizer se este numero é PAR ou IMPAR
 		
-		/*int numero;
+		int numero;
 		
 		System.out.println("Por favor digite um numero: ");
 		numero = sc.nextInt();
@@ -43,14 +43,14 @@ public class exercicio_estrutura_condicional {
 			System.out.println("IMPAR");
 		}
 		
-		sc.close(); */
+		sc.close(); 
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
 		//  3 - Leia 2 valores inteiro (A e B). Apos, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Não sao Multiplos", indicando se os valoes lidos são multiplos entre si.
 		   //  Atenção: os numero devem podem ser digitados em ordem crescente ou decres
 		
-		/*int A, B;
+		int A, B;
 		
 		System.out.println("Digite um valor de A: ");
 		A = sc.nextInt();
@@ -67,7 +67,7 @@ public class exercicio_estrutura_condicional {
 			System.out.println("Nao Sao Multiplos");
 		} 
 		
-		sc.close(); */
+		sc.close(); 
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
@@ -75,7 +75,7 @@ public class exercicio_estrutura_condicional {
 		//      e terminar em outro, tendo uma duração minima de 1 hora e maxima de 24 horas.
 		
 		
-		/*int hora_ini, hora_fim;
+		int hora_ini, hora_fim;
 		int duracao;
 		
 		System.out.println("Digite a hora inicial: ");
@@ -96,13 +96,13 @@ public class exercicio_estrutura_condicional {
 		
 			System.out.printf("O Jogo durou " + duracao + " Hora(s)");
 			
-			sc.close(); */
+			sc.close(); 
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
 		// 5 -> Com base na tabela abaixo, escreva um programa que leia o codigo de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a o pagar.
 	
-		/*int codigo;
+		int codigo;
 		double preco, total, qty;
 		
 		System.out.print("Digite o código do produto: ");
@@ -152,7 +152,7 @@ public class exercicio_estrutura_condicional {
 		Locale.setDefault(Locale.US);
 		System.out.printf("O valor total é R$ %.2f%n ", total);
 		
-		sc.close();*/
+		sc.close();
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
@@ -160,8 +160,7 @@ public class exercicio_estrutura_condicional {
 		//     [25,50], [50,75], [75,100] este valor se encontra. Obviamente se o valor não estiver em enhum deste intervalos, devera ser impressa
 		//     a mensagem "Fora de intervalo".
 	 
-		/*double valor;
-		
+		double valor;		
 		System.out.print("Digite o valor: ");
 		valor = sc.nextDouble();
 		
@@ -183,7 +182,7 @@ public class exercicio_estrutura_condicional {
 			
 		}
 		
-		sc.close(); */
+		sc.close(); 
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
@@ -194,7 +193,7 @@ public class exercicio_estrutura_condicional {
 		//		Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a
 		//		situação. 
 		
-		/* double x, y;
+		double x, y;
 		
 		System.out.print("Digite o valor de X: ");
 		x = sc.nextDouble();
@@ -223,7 +222,7 @@ public class exercicio_estrutura_condicional {
 			System.out.print("Q4");
 		}
 		
-		sc.close();*/ 
+		sc.close();
 		
 		// 8 -> Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem
 		// que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem
