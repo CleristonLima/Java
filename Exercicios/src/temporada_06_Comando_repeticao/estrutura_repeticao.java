@@ -10,7 +10,7 @@ public class estrutura_repeticao {
 				incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser
 				impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002. */
 		
-		/*Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Digite a senha: ");
 		int senha = sc.nextInt();	
@@ -26,7 +26,7 @@ public class estrutura_repeticao {
 		
 		System.out.print("Acesso Permitido!");
 		
-		sc.close();*/
+		sc.close();
 		
 		System.out.print("-----------------------------------------------------------------------------------------------------------------");
 		
@@ -34,7 +34,7 @@ public class estrutura_repeticao {
 				cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo
 				menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma). */
 		
-		/*Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Digite o valor de X: ");
 		int x = sc.nextInt();
@@ -72,7 +72,7 @@ public class estrutura_repeticao {
 			}
 				
 
-		sc.close();*/
+		sc.close();
 		
 		System.out.print("-----------------------------------------------------------------------------------------------------------------");
 		
