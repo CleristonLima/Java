@@ -12,7 +12,7 @@ public class exercicios_Vetores {
 				e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.
 				
 		 */
-		Scanner sc = new Scanner(System.in);
+		 /*Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Quantos numeros você irá digitar? ");
 		int n = sc.nextInt();
@@ -36,7 +36,7 @@ public class exercicios_Vetores {
 				}
 			}
 			
-		sc.close();
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -46,7 +46,7 @@ public class exercicios_Vetores {
 				- Mostrar na tela a soma e a média dos elementos do vetor
 		 */
 
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Quantos numeros você irá digitar? ");
@@ -83,7 +83,7 @@ public class exercicios_Vetores {
 		System.out.println();
 		System.out.printf("MEDIA = %.2f", avg);
 		
-		sc.close();
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -93,7 +93,7 @@ public class exercicios_Vetores {
 				bem como os nomes dessas pessoas caso houver.
 		 */
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Quantas pessoas serao digitadas? ");
@@ -151,7 +151,7 @@ public class exercicios_Vetores {
 					}
 				}
 		
-		sc.close();
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -160,7 +160,7 @@ public class exercicios_Vetores {
 				tela todos os números pares, e também a quantidade de números pares.
 		 */
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantos numeros você vai digitar? ");
@@ -191,7 +191,7 @@ public class exercicios_Vetores {
 		
 		
 		
-		sc.close();
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -199,7 +199,7 @@ public class exercicios_Vetores {
 			   o maior número do vetor (supor não haver empates). Mostrar também a posição do maior elemento,
 		  	   considerando a primeira posição como 0 (zero). */
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantos numeros você vai digitar? ");
@@ -228,7 +228,7 @@ public class exercicios_Vetores {
 		System.out.printf("\nMAIOR VALOR = %.1f\n", maiorValor);
 		System.out.printf("POSICAO DO MAIOR VALOR = %d\n", posicaoMaior);
 		
-		sc.close();
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -236,7 +236,7 @@ public class exercicios_Vetores {
 				terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima
 				o vetor C gerado. */
 		
-	    Locale.setDefault(Locale.US);
+	   /* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantos valores vai ter cada vetor? ");
@@ -270,7 +270,7 @@ public class exercicios_Vetores {
 				System.out.printf("\n%d", somaVetores[i]);
 			}
 		
-		sc.close(); 
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -279,7 +279,7 @@ public class exercicios_Vetores {
 				os elementos do vetor que estejam abaixo da média, com uma casa decimal cada.
 		*/
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantos elementos vai ter o vetor? ");
@@ -314,7 +314,7 @@ public class exercicios_Vetores {
 			}
 		}
 		
-		sc.close(); 
+		sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -324,7 +324,7 @@ public class exercicios_Vetores {
 				 digitado, mostrar a mensagem "NENHUM NUMERO PAR"
 		 */
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantos elementos vai ter o vetor? ");
@@ -365,7 +365,7 @@ public class exercicios_Vetores {
 				System.out.printf("MEDIA DOS PARES = %.1f\n", media);
 			}
 			
-		sc.close();		
+		sc.close();	*/	
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -375,7 +375,7 @@ public class exercicios_Vetores {
 				da pessoa mais velha.
 		 */
 		
-		 Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantas pessoas você vai digitar? ");
@@ -411,7 +411,7 @@ public class exercicios_Vetores {
 	    }
 	    
 	    System.out.printf("\nPESSOA MAIS VELHA: %s\n", nome[posicaoMaior]);
-	    sc.close(); 
+	    sc.close(); */
 		
 		System.out.println("---------------------------------------------------------------");
 		
@@ -422,7 +422,7 @@ public class exercicios_Vetores {
 				 igual a 6.0 (seis).
 		 */
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantas alunos serao digitados? ");
@@ -461,7 +461,7 @@ public class exercicios_Vetores {
 			
 		}
 		
-		sc.close(); 
+		sc.close(); */
 		
 		/*
 		 * 11 -> Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa
@@ -469,7 +469,7 @@ public class exercicios_Vetores {
 				 de homens.
 		 */
 		
-		Locale.setDefault(Locale.US);
+		/* Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.printf("Quantas pessoas serao digitadas? ");
@@ -536,6 +536,6 @@ public class exercicios_Vetores {
 		System.out.printf("Media das alturas das mulheres = %.2f\n", mediaAlturaMulheres);
 		System.out.printf("Numero de homens = %d\n", totalHomens);
 		
-		sc.close();
+		sc.close(); */
 	}
 }
