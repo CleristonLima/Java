@@ -36,7 +36,7 @@ public class Abertura_conta {
 		System.out.print("Enter account holder: ");
 		sc.nextLine();
 		String holder = sc.nextLine();
-		
+
 		System.out.print("Is there an initial deposit (y/n)? ");
 		char response = sc.next().charAt(0);
 		
